@@ -37,7 +37,7 @@
 //1. Decode the first base64 and the result is UTF - 8 binary(2 bytes = 1 character)
 //2. Convert UTF - 8 binary to UTF - 16 string
 //3. Take the UTF - 16 string and decrypt it with the XOR function
-//4. Decode the UTF - 16 string as base64 and you get PE file
+//4. Decode the UTF - 16 string as base64 and you get PE file.
 
 
 
