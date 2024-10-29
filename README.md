@@ -12,3 +12,5 @@ The code is designed to run on a powerful machine with multiple cores or process
 However, it is important to note that this approach can still take a significant amount of time, depending on the length and complexity of the key.
 
 Overall, the use of a multi-threaded brute force algorithm can be an effective way to decrypt webshell payloads and uncover the malicious activity being carried out by threat actors.
+
+
